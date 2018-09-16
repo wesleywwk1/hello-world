@@ -1,4 +1,4 @@
 # hello-world
 Hello World
 
-just learning the github workflow
+just learning the GitHub workflow
